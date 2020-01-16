@@ -1,0 +1,6 @@
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\bin\Debug\ClassLibraryForGAC.dll
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\bin\Debug\ClassLibraryForGAC.pdb
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\obj\Debug\ClassLibraryForGAC.csprojAssemblyReference.cache
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\obj\Debug\ClassLibraryForGAC.csproj.CoreCompileInputs.cache
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\obj\Debug\ClassLibraryForGAC.dll
+C:\Dotnet\ClassLibraryForGAC\ClassLibraryForGAC\obj\Debug\ClassLibraryForGAC.pdb
